@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/game-play/static/css/main.07ecef4f.css",
+    "main.js": "/game-play/static/js/main.e298fae1.js",
+    "static/media/astronaught.jpg": "/game-play/static/media/astronaught.fb026fbbcb9cabd46d15.jpg",
+    "static/media/cartoon.jpg": "/game-play/static/media/cartoon.030e1338c5b2e340f8a0.jpg",
+    "static/media/wrestler.jpg": "/game-play/static/media/wrestler.454f5d46b26604fbbc78.jpg",
+    "static/media/gamer.jpg": "/game-play/static/media/gamer.a4104cb04441b08832fe.jpg",
+    "index.html": "/game-play/index.html",
+    "main.07ecef4f.css.map": "/game-play/static/css/main.07ecef4f.css.map",
+    "main.e298fae1.js.map": "/game-play/static/js/main.e298fae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ecef4f.css",
+    "static/js/main.e298fae1.js"
+  ]
+}
